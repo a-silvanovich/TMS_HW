@@ -2,7 +2,7 @@ import json, csv, os
 
 with open('city.list.json', "r", encoding='utf-8') as city_json:
     city_data = json.load(city_json)
-print(city_data[0])
+# print(city_data[0])
 
 # Задание 1
 
@@ -28,14 +28,16 @@ for city in city_data:
 
 # Задание 4
 
-city_data_flat = []
-city_data_flat.extend(city_data)
-for city in city_data_flat:
-    city['coord'] = [city['coord']['lon'], city['coord']['lat']]
 with open('city.list.csv', "w", encoding='utf-8', newline='') as city_csv:
-    writer = csv.DictWriter(city_csv, fieldnames=list(city_data_flat[0].keys()))
+    writer = csv.DictWriter(city_csv, fieldnames=list(city_data[0].keys()))
     writer.writeheader()
-    writer.writerows(city_data_flat)
+    for city in city_data:
+        writer.writerow({
+            'id': city['id'],
+            'name': city['name'],
+            'country': city['country'],
+            'coord': f'{city["coord"]["lat"]}, {city["coord"]["lon"]}',
+        })
 
 # Задание 5
 
@@ -62,10 +64,10 @@ countries = []
 for city in city_data:
     if city['country'] not in countries:
         countries.append(city['country'])
-# for index in countries:
-#     cities_list = create_city_list(index)
-#     with open(f'cities_by_country/{index}_cities.json', "w", newline='') as cities_json:
-#         json.dump(cities_list, cities_json)
+for index in countries:
+    cities_list = create_city_list(index)
+    with open(f'cities_by_country/{index}_cities.json', "w", newline='') as cities_json:
+        json.dump(cities_list, cities_json)
 
 # Задание 7
 
@@ -80,7 +82,7 @@ for city in cities_BY[:100]:
         "id": city['id'],
         "geometry":
             {"type": "Point",
-            "coordinates": city['coord']},
+            "coordinates": [city['coord']['lon'], city['coord']['lat']]},
         "properties": {
             "description": city['name'],
             "iconCaption": city['name'],
