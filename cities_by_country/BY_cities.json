@@ -1,0 +1,4889 @@
+[
+  {
+    "id": 626064,
+    "name": "Lyozna",
+    "country": "BY",
+    "coord": [
+      55.02486,
+      30.795561
+    ]
+  },
+  {
+    "id": 10722858,
+    "name": "Svetlogorsk",
+    "country": "BY",
+    "coord": [
+      52.633333,
+      29.733333
+    ]
+  },
+  {
+    "id": 630336,
+    "name": "Republic of Belarus",
+    "country": "BY",
+    "coord": [
+      53,
+      28
+    ]
+  },
+  {
+    "id": 627962,
+    "name": "Guraki",
+    "country": "BY",
+    "coord": [
+      54.572777,
+      30.883612
+    ]
+  },
+  {
+    "id": 619258,
+    "name": "Zalozy",
+    "country": "BY",
+    "coord": [
+      53.333332,
+      25.583332
+    ]
+  },
+  {
+    "id": 624784,
+    "name": "Navapolatsk",
+    "country": "BY",
+    "coord": [
+      55.536282,
+      28.642441
+    ]
+  },
+  {
+    "id": 629454,
+    "name": "Byaroza",
+    "country": "BY",
+    "coord": [
+      52.531399,
+      24.9786
+    ]
+  },
+  {
+    "id": 630429,
+    "name": "Baranavichy",
+    "country": "BY",
+    "coord": [
+      53.132702,
+      26.013901
+    ]
+  },
+  {
+    "id": 8020218,
+    "name": "Malinovka",
+    "country": "BY",
+    "coord": [
+      53.857899,
+      27.437401
+    ]
+  },
+  {
+    "id": 627318,
+    "name": "Navinki",
+    "country": "BY",
+    "coord": [
+      53.933334,
+      27.549999
+    ]
+  },
+  {
+    "id": 625144,
+    "name": "Minsk",
+    "country": "BY",
+    "coord": [
+      53.900002,
+      27.566668
+    ]
+  },
+  {
+    "id": 625504,
+    "name": "Malyavshchina",
+    "country": "BY",
+    "coord": [
+      53.916668,
+      27.6
+    ]
+  },
+  {
+    "id": 627332,
+    "name": "Khutor Apolinarovo",
+    "country": "BY",
+    "coord": [
+      53.950001,
+      27.533333
+    ]
+  },
+  {
+    "id": 619034,
+    "name": "Zatsen\u2019",
+    "country": "BY",
+    "coord": [
+      53.966667,
+      27.5
+    ]
+  },
+  {
+    "id": 628816,
+    "name": "Dubovlyany",
+    "country": "BY",
+    "coord": [
+      54,
+      27.549999
+    ]
+  },
+  {
+    "id": 623802,
+    "name": "Papernya",
+    "country": "BY",
+    "coord": [
+      54.033333,
+      27.566668
+    ]
+  },
+  {
+    "id": 625143,
+    "name": "Horad Minsk",
+    "country": "BY",
+    "coord": [
+      53.900002,
+      27.566668
+    ]
+  },
+  {
+    "id": 624147,
+    "name": "Ol\u2019sh\u00ebvo",
+    "country": "BY",
+    "coord": [
+      53.916668,
+      27.516666
+    ]
+  },
+  {
+    "id": 629752,
+    "name": "Baravaya",
+    "country": "BY",
+    "coord": [
+      53.950001,
+      27.466667
+    ]
+  },
+  {
+    "id": 626462,
+    "name": "Kruptsy",
+    "country": "BY",
+    "coord": [
+      53.933334,
+      27.5
+    ]
+  },
+  {
+    "id": 622069,
+    "name": "Sheypichi",
+    "country": "BY",
+    "coord": [
+      53.866669,
+      27.583332
+    ]
+  },
+  {
+    "id": 621275,
+    "name": "Stolovaya",
+    "country": "BY",
+    "coord": [
+      53.866669,
+      27.566668
+    ]
+  },
+  {
+    "id": 621667,
+    "name": "Sokolyanka",
+    "country": "BY",
+    "coord": [
+      53.866669,
+      27.583332
+    ]
+  },
+  {
+    "id": 626861,
+    "name": "Korzyuki",
+    "country": "BY",
+    "coord": [
+      53.833332,
+      27.6
+    ]
+  },
+  {
+    "id": 628684,
+    "name": "Dvorishche",
+    "country": "BY",
+    "coord": [
+      53.849998,
+      27.6
+    ]
+  },
+  {
+    "id": 630202,
+    "name": "Berezinka",
+    "country": "BY",
+    "coord": [
+      53.016666,
+      28.016666
+    ]
+  },
+  {
+    "id": 619955,
+    "name": "Vostochnyy",
+    "country": "BY",
+    "coord": [
+      53.916668,
+      27.583332
+    ]
+  },
+  {
+    "id": 623869,
+    "name": "Ozerishche",
+    "country": "BY",
+    "coord": [
+      53.933334,
+      27.700001
+    ]
+  },
+  {
+    "id": 629962,
+    "name": "Slepnya",
+    "country": "BY",
+    "coord": [
+      53.933334,
+      27.65
+    ]
+  },
+  {
+    "id": 620453,
+    "name": "Valer\u2019yanovo",
+    "country": "BY",
+    "coord": [
+      53.966667,
+      27.666668
+    ]
+  },
+  {
+    "id": 620553,
+    "name": "Uruch\u2019ye",
+    "country": "BY",
+    "coord": [
+      53.950001,
+      27.683332
+    ]
+  },
+  {
+    "id": 626895,
+    "name": "Korolev Stan",
+    "country": "BY",
+    "coord": [
+      53.983334,
+      27.799999
+    ]
+  },
+  {
+    "id": 621817,
+    "name": "Slabada",
+    "country": "BY",
+    "coord": [
+      54.016666,
+      27.883333
+    ]
+  },
+  {
+    "id": 629847,
+    "name": "Bol\u2019shoye Zaluzh\u2019ye",
+    "country": "BY",
+    "coord": [
+      54.033333,
+      27.950001
+    ]
+  },
+  {
+    "id": 629056,
+    "name": "Dinarovka",
+    "country": "BY",
+    "coord": [
+      54.033333,
+      27.966667
+    ]
+  },
+  {
+    "id": 624538,
+    "name": "Novaya Zhizn\u2019",
+    "country": "BY",
+    "coord": [
+      54.033333,
+      28.049999
+    ]
+  },
+  {
+    "id": 625142,
+    "name": "Minskaya Voblasts\u2019",
+    "country": "BY",
+    "coord": [
+      54,
+      28
+    ]
+  },
+  {
+    "id": 621729,
+    "name": "Horad Smalyavichy",
+    "country": "BY",
+    "coord": [
+      54.033333,
+      28.084167
+    ]
+  },
+  {
+    "id": 619822,
+    "name": "Vysokiye Lyady",
+    "country": "BY",
+    "coord": [
+      54.066666,
+      28.200001
+    ]
+  },
+  {
+    "id": 621159,
+    "name": "Sukhaya Grad\u2019",
+    "country": "BY",
+    "coord": [
+      54.083332,
+      28.299999
+    ]
+  },
+  {
+    "id": 618800,
+    "name": "Horad Zhodzina",
+    "country": "BY",
+    "coord": [
+      54.098331,
+      28.3325
+    ]
+  },
+  {
+    "id": 623678,
+    "name": "Peresady",
+    "country": "BY",
+    "coord": [
+      54.133331,
+      28.416668
+    ]
+  },
+  {
+    "id": 793277,
+    "name": "Pechi",
+    "country": "BY",
+    "coord": [
+      54.183334,
+      28.466667
+    ]
+  },
+  {
+    "id": 628051,
+    "name": "Griskovshchina",
+    "country": "BY",
+    "coord": [
+      53.866669,
+      27.5
+    ]
+  },
+  {
+    "id": 629553,
+    "name": "Budilovo",
+    "country": "BY",
+    "coord": [
+      53.883331,
+      27.516666
+    ]
+  },
+  {
+    "id": 620134,
+    "name": "Vitsyebskaya Voblasts\u2019",
+    "country": "BY",
+    "coord": [
+      55,
+      29.5
+    ]
+  },
+  {
+    "id": 625777,
+    "name": "Lyady",
+    "country": "BY",
+    "coord": [
+      54.602779,
+      31.172222
+    ]
+  },
+  {
+    "id": 627445,
+    "name": "Kholbnya",
+    "country": "BY",
+    "coord": [
+      54.599998,
+      31.1
+    ]
+  },
+  {
+    "id": 813620,
+    "name": "Volevki",
+    "country": "BY",
+    "coord": [
+      54.622501,
+      31.079445
+    ]
+  },
+  {
+    "id": 813643,
+    "name": "Kalinovka",
+    "country": "BY",
+    "coord": [
+      54.597221,
+      31.000278
+    ]
+  },
+  {
+    "id": 622688,
+    "name": "Rostkovo",
+    "country": "BY",
+    "coord": [
+      54.599998,
+      30.950001
+    ]
+  },
+  {
+    "id": 626698,
+    "name": "Koz\u2019yany",
+    "country": "BY",
+    "coord": [
+      54.599998,
+      30.916668
+    ]
+  },
+  {
+    "id": 626654,
+    "name": "Krasnaya Sloboda",
+    "country": "BY",
+    "coord": [
+      54.587776,
+      30.836666
+    ]
+  },
+  {
+    "id": 629858,
+    "name": "Bol\u2019shoye Savino",
+    "country": "BY",
+    "coord": [
+      54.583332,
+      30.783333
+    ]
+  },
+  {
+    "id": 619594,
+    "name": "Yeremeyevshchina",
+    "country": "BY",
+    "coord": [
+      54.566666,
+      30.766666
+    ]
+  },
+  {
+    "id": 628758,
+    "name": "Dubrowna",
+    "country": "BY",
+    "coord": [
+      54.573334,
+      30.690556
+    ]
+  },
+  {
+    "id": 621255,
+    "name": "Strazhevo",
+    "country": "BY",
+    "coord": [
+      54.566666,
+      30.6
+    ]
+  },
+  {
+    "id": 626579,
+    "name": "Krasnyy Pos\u00eblok",
+    "country": "BY",
+    "coord": [
+      54.533333,
+      30.583332
+    ]
+  },
+  {
+    "id": 629625,
+    "name": "Brili",
+    "country": "BY",
+    "coord": [
+      54.523056,
+      30.561111
+    ]
+  },
+  {
+    "id": 626238,
+    "name": "Larinovka",
+    "country": "BY",
+    "coord": [
+      54.516666,
+      30.483334
+    ]
+  },
+  {
+    "id": 624079,
+    "name": "Orsha",
+    "country": "BY",
+    "coord": [
+      54.515278,
+      30.405277
+    ]
+  },
+  {
+    "id": 620955,
+    "name": "Tatarsk",
+    "country": "BY",
+    "coord": [
+      54.5,
+      30.333332
+    ]
+  },
+  {
+    "id": 630431,
+    "name": "Baran",
+    "country": "BY",
+    "coord": [
+      54.476391,
+      30.318056
+    ]
+  },
+  {
+    "id": 629272,
+    "name": "Cherven\u2019",
+    "country": "BY",
+    "coord": [
+      54.466667,
+      30.316668
+    ]
+  },
+  {
+    "id": 625550,
+    "name": "Malinovka",
+    "country": "BY",
+    "coord": [
+      54.433334,
+      30.35
+    ]
+  },
+  {
+    "id": 626050,
+    "name": "Lipki",
+    "country": "BY",
+    "coord": [
+      54.400002,
+      30.299999
+    ]
+  },
+  {
+    "id": 625073,
+    "name": "Mahilyowskaya Voblasts\u2019",
+    "country": "BY",
+    "coord": [
+      54,
+      30.75
+    ]
+  },
+  {
+    "id": 813247,
+    "name": "Maloye Zamosh\u2019ye",
+    "country": "BY",
+    "coord": [
+      54.375278,
+      30.309999
+    ]
+  },
+  {
+    "id": 627490,
+    "name": "Khimy",
+    "country": "BY",
+    "coord": [
+      54.366669,
+      30.266666
+    ]
+  },
+  {
+    "id": 630630,
+    "name": "Aleksandriya",
+    "country": "BY",
+    "coord": [
+      54.333332,
+      30.283333
+    ]
+  },
+  {
+    "id": 625240,
+    "name": "Mezhniki",
+    "country": "BY",
+    "coord": [
+      54.311668,
+      30.258333
+    ]
+  },
+  {
+    "id": 621769,
+    "name": "Slobodka",
+    "country": "BY",
+    "coord": [
+      54.277222,
+      30.250834
+    ]
+  },
+  {
+    "id": 812490,
+    "name": "Nizovtsy",
+    "country": "BY",
+    "coord": [
+      54.25111,
+      30.239721
+    ]
+  },
+  {
+    "id": 619095,
+    "name": "Zarovtsy",
+    "country": "BY",
+    "coord": [
+      54.232498,
+      30.245832
+    ]
+  },
+  {
+    "id": 622034,
+    "name": "Shklow",
+    "country": "BY",
+    "coord": [
+      54.210835,
+      30.291945
+    ]
+  },
+  {
+    "id": 622455,
+    "name": "Ryzhkovichi",
+    "country": "BY",
+    "coord": [
+      54.183334,
+      30.316668
+    ]
+  },
+  {
+    "id": 812538,
+    "name": "Dan\u2019kovichi",
+    "country": "BY",
+    "coord": [
+      54.173058,
+      30.327499
+    ]
+  },
+  {
+    "id": 626005,
+    "name": "Litovsk",
+    "country": "BY",
+    "coord": [
+      54.147221,
+      30.316668
+    ]
+  },
+  {
+    "id": 625642,
+    "name": "Makhovoye",
+    "country": "BY",
+    "coord": [
+      54.116669,
+      30.299999
+    ]
+  },
+  {
+    "id": 627664,
+    "name": "Kamennyye Lavy",
+    "country": "BY",
+    "coord": [
+      54.091667,
+      30.301666
+    ]
+  },
+  {
+    "id": 630391,
+    "name": "Barsuki",
+    "country": "BY",
+    "coord": [
+      54.055557,
+      30.320278
+    ]
+  },
+  {
+    "id": 626360,
+    "name": "Kupely",
+    "country": "BY",
+    "coord": [
+      54.033333,
+      30.316668
+    ]
+  },
+  {
+    "id": 816218,
+    "name": "Palykavichy Pyershyya",
+    "country": "BY",
+    "coord": [
+      53.993057,
+      30.349167
+    ]
+  },
+  {
+    "id": 618768,
+    "name": "Zhukovo",
+    "country": "BY",
+    "coord": [
+      53.985832,
+      30.291389
+    ]
+  },
+  {
+    "id": 816214,
+    "name": "Gay",
+    "country": "BY",
+    "coord": [
+      53.96389,
+      30.298332
+    ]
+  },
+  {
+    "id": 623255,
+    "name": "Polykovichi",
+    "country": "BY",
+    "coord": [
+      53.965832,
+      30.335278
+    ]
+  },
+  {
+    "id": 627631,
+    "name": "Karabanovka",
+    "country": "BY",
+    "coord": [
+      53.946388,
+      30.364721
+    ]
+  },
+  {
+    "id": 625665,
+    "name": "Mahilyow",
+    "country": "BY",
+    "coord": [
+      53.913891,
+      30.33639
+    ]
+  },
+  {
+    "id": 620853,
+    "name": "Tishovka",
+    "country": "BY",
+    "coord": [
+      53.883331,
+      30.283333
+    ]
+  },
+  {
+    "id": 629471,
+    "name": "Buynichy",
+    "country": "BY",
+    "coord": [
+      53.850555,
+      30.263889
+    ]
+  },
+  {
+    "id": 622341,
+    "name": "Selets",
+    "country": "BY",
+    "coord": [
+      53.826942,
+      30.241112
+    ]
+  },
+  {
+    "id": 626638,
+    "name": "Krasnitsa",
+    "country": "BY",
+    "coord": [
+      53.789165,
+      30.184723
+    ]
+  },
+  {
+    "id": 626633,
+    "name": "Krasnitsa Vtoraya",
+    "country": "BY",
+    "coord": [
+      53.783333,
+      30.183332
+    ]
+  },
+  {
+    "id": 625245,
+    "name": "Myazhysyatki",
+    "country": "BY",
+    "coord": [
+      53.770557,
+      30.168056
+    ]
+  },
+  {
+    "id": 815261,
+    "name": "Pushcha",
+    "country": "BY",
+    "coord": [
+      53.753056,
+      30.128056
+    ]
+  },
+  {
+    "id": 814948,
+    "name": "Podbrod\u2019ye",
+    "country": "BY",
+    "coord": [
+      53.726112,
+      30.098333
+    ]
+  },
+  {
+    "id": 628776,
+    "name": "Dubrovka",
+    "country": "BY",
+    "coord": [
+      53.700001,
+      30.083332
+    ]
+  },
+  {
+    "id": 623228,
+    "name": "Poplavshchina",
+    "country": "BY",
+    "coord": [
+      53.691113,
+      30.045834
+    ]
+  },
+  {
+    "id": 814943,
+    "name": "Rudki",
+    "country": "BY",
+    "coord": [
+      53.676388,
+      30.027222
+    ]
+  },
+  {
+    "id": 628402,
+    "name": "Glukhaya Seliba",
+    "country": "BY",
+    "coord": [
+      53.659168,
+      30.021944
+    ]
+  },
+  {
+    "id": 621563,
+    "name": "Stakhovshchina",
+    "country": "BY",
+    "coord": [
+      53.639721,
+      30.016666
+    ]
+  },
+  {
+    "id": 628549,
+    "name": "Gal\u2019kovka",
+    "country": "BY",
+    "coord": [
+      53.621113,
+      30.010834
+    ]
+  },
+  {
+    "id": 618716,
+    "name": "Zolotva",
+    "country": "BY",
+    "coord": [
+      53.599998,
+      29.983334
+    ]
+  },
+  {
+    "id": 619917,
+    "name": "Vsenezh\u2019ye",
+    "country": "BY",
+    "coord": [
+      53.599998,
+      29.916668
+    ]
+  },
+  {
+    "id": 628756,
+    "name": "Dubrovo",
+    "country": "BY",
+    "coord": [
+      53.583332,
+      29.9
+    ]
+  },
+  {
+    "id": 628559,
+    "name": "Galeyevka",
+    "country": "BY",
+    "coord": [
+      53.533333,
+      29.866667
+    ]
+  },
+  {
+    "id": 629388,
+    "name": "Chechevichi",
+    "country": "BY",
+    "coord": [
+      53.516666,
+      29.85
+    ]
+  },
+  {
+    "id": 618965,
+    "name": "Zbyshin",
+    "country": "BY",
+    "coord": [
+      53.5,
+      29.766666
+    ]
+  },
+  {
+    "id": 629783,
+    "name": "Borki",
+    "country": "BY",
+    "coord": [
+      53.466667,
+      29.700001
+    ]
+  },
+  {
+    "id": 623641,
+    "name": "Perunovo",
+    "country": "BY",
+    "coord": [
+      53.400002,
+      29.700001
+    ]
+  },
+  {
+    "id": 624535,
+    "name": "Novgorodok",
+    "country": "BY",
+    "coord": [
+      53.349998,
+      29.616667
+    ]
+  },
+  {
+    "id": 627643,
+    "name": "Kaplanovka",
+    "country": "BY",
+    "coord": [
+      53.349998,
+      29.583332
+    ]
+  },
+  {
+    "id": 629736,
+    "name": "Borovitsa",
+    "country": "BY",
+    "coord": [
+      53.333332,
+      29.566668
+    ]
+  },
+  {
+    "id": 619803,
+    "name": "Vyzhary Vtoryye",
+    "country": "BY",
+    "coord": [
+      53.316666,
+      29.533333
+    ]
+  },
+  {
+    "id": 619805,
+    "name": "Vyzhary Pervyye",
+    "country": "BY",
+    "coord": [
+      53.316666,
+      29.516666
+    ]
+  },
+  {
+    "id": 627414,
+    "name": "Khomichi",
+    "country": "BY",
+    "coord": [
+      53.299999,
+      29.483334
+    ]
+  },
+  {
+    "id": 627272,
+    "name": "Kirawsk",
+    "country": "BY",
+    "coord": [
+      53.268612,
+      29.473612
+    ]
+  },
+  {
+    "id": 629516,
+    "name": "Bukino",
+    "country": "BY",
+    "coord": [
+      53.25,
+      29.450001
+    ]
+  },
+  {
+    "id": 620879,
+    "name": "Teykovichi",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      29.433332
+    ]
+  },
+  {
+    "id": 628149,
+    "name": "Gorokhovka",
+    "country": "BY",
+    "coord": [
+      53.183334,
+      29.4
+    ]
+  },
+  {
+    "id": 619670,
+    "name": "Yasnyy Les",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      29.35
+    ]
+  },
+  {
+    "id": 620851,
+    "name": "Titovka",
+    "country": "BY",
+    "coord": [
+      53.133331,
+      29.299999
+    ]
+  },
+  {
+    "id": 630468,
+    "name": "Babruysk",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      29.233334
+    ]
+  },
+  {
+    "id": 627265,
+    "name": "Kiselevichi",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      29.15
+    ]
+  },
+  {
+    "id": 621779,
+    "name": "Slabodka",
+    "country": "BY",
+    "coord": [
+      53.116669,
+      29.116667
+    ]
+  },
+  {
+    "id": 623466,
+    "name": "Pobokovichi",
+    "country": "BY",
+    "coord": [
+      53.133331,
+      29.016666
+    ]
+  },
+  {
+    "id": 630428,
+    "name": "Baranovichi",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      28.983334
+    ]
+  },
+  {
+    "id": 623986,
+    "name": "Vosava",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      28.916668
+    ]
+  },
+  {
+    "id": 621313,
+    "name": "Stefanopol\u2019",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      28.85
+    ]
+  },
+  {
+    "id": 620643,
+    "name": "Ubolot\u2019ye",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      28.816668
+    ]
+  },
+  {
+    "id": 626864,
+    "name": "Karytnaye",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      28.766666
+    ]
+  },
+  {
+    "id": 620970,
+    "name": "-",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      28.75
+    ]
+  },
+  {
+    "id": 621420,
+    "name": "Staroye Selo",
+    "country": "BY",
+    "coord": [
+      53.183334,
+      28.716667
+    ]
+  },
+  {
+    "id": 629785,
+    "name": "Borki",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      28.683332
+    ]
+  },
+  {
+    "id": 626945,
+    "name": "Karany",
+    "country": "BY",
+    "coord": [
+      53.25,
+      28.683332
+    ]
+  },
+  {
+    "id": 624034,
+    "name": "Asipovichy",
+    "country": "BY",
+    "coord": [
+      53.293331,
+      28.642221
+    ]
+  },
+  {
+    "id": 623985,
+    "name": "Osovo",
+    "country": "BY",
+    "coord": [
+      53.283333,
+      28.6
+    ]
+  },
+  {
+    "id": 623227,
+    "name": "Poplavy",
+    "country": "BY",
+    "coord": [
+      53.266666,
+      28.533333
+    ]
+  },
+  {
+    "id": 623465,
+    "name": "Pobokovichi",
+    "country": "BY",
+    "coord": [
+      53.25,
+      28.5
+    ]
+  },
+  {
+    "id": 625234,
+    "name": "Myazovichy",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      28.416668
+    ]
+  },
+  {
+    "id": 626986,
+    "name": "Kontsy",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      28.283333
+    ]
+  },
+  {
+    "id": 628897,
+    "name": "Drychyn",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      28.233334
+    ]
+  },
+  {
+    "id": 619536,
+    "name": "Yurevichi",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      28.216667
+    ]
+  },
+  {
+    "id": 618816,
+    "name": "Zhitin",
+    "country": "BY",
+    "coord": [
+      53.25,
+      28.183332
+    ]
+  },
+  {
+    "id": 626095,
+    "name": "Lyawki",
+    "country": "BY",
+    "coord": [
+      53.200001,
+      28.049999
+    ]
+  },
+  {
+    "id": 622125,
+    "name": "Shchytkavichy",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      27.983334
+    ]
+  },
+  {
+    "id": 626034,
+    "name": "Lipovka",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      27.950001
+    ]
+  },
+  {
+    "id": 625298,
+    "name": "Medenoye",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      27.866667
+    ]
+  },
+  {
+    "id": 630223,
+    "name": "Berazinets",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      27.75
+    ]
+  },
+  {
+    "id": 623306,
+    "name": "Polikarovka",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      27.733334
+    ]
+  },
+  {
+    "id": 623660,
+    "name": "Perevoloka",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      27.666668
+    ]
+  },
+  {
+    "id": 619204,
+    "name": "Zamostsye",
+    "country": "BY",
+    "coord": [
+      53.200001,
+      27.583332
+    ]
+  },
+  {
+    "id": 622044,
+    "name": "Shyshchytsy",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      27.549999
+    ]
+  },
+  {
+    "id": 620570,
+    "name": "Ul\u2019yanovka",
+    "country": "BY",
+    "coord": [
+      53.200001,
+      27.533333
+    ]
+  },
+  {
+    "id": 628079,
+    "name": "Hresk",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      27.483334
+    ]
+  },
+  {
+    "id": 628652,
+    "name": "Dyudevo",
+    "country": "BY",
+    "coord": [
+      53.133331,
+      27.450001
+    ]
+  },
+  {
+    "id": 618781,
+    "name": "Zhuki",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      27.4
+    ]
+  },
+  {
+    "id": 626096,
+    "name": "Levinova",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      27.383333
+    ]
+  },
+  {
+    "id": 628021,
+    "name": "Hrozava",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      27.333332
+    ]
+  },
+  {
+    "id": 628213,
+    "name": "Gornostaylovo",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      27.299999
+    ]
+  },
+  {
+    "id": 623921,
+    "name": "Ostrovok",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      27.25
+    ]
+  },
+  {
+    "id": 624479,
+    "name": "Novosady",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      27.183332
+    ]
+  },
+  {
+    "id": 621903,
+    "name": "Skabin",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      27.15
+    ]
+  },
+  {
+    "id": 626956,
+    "name": "Kapyl",
+    "country": "BY",
+    "coord": [
+      53.153057,
+      27.096666
+    ]
+  },
+  {
+    "id": 624457,
+    "name": "Novos\u00eblki",
+    "country": "BY",
+    "coord": [
+      53.200001,
+      26.983334
+    ]
+  },
+  {
+    "id": 623155,
+    "name": "Patsyeyki",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      26.966667
+    ]
+  },
+  {
+    "id": 618890,
+    "name": "Zhaulki",
+    "country": "BY",
+    "coord": [
+      53.166668,
+      26.916668
+    ]
+  },
+  {
+    "id": 626418,
+    "name": "Kudinovichi",
+    "country": "BY",
+    "coord": [
+      53.183334,
+      26.883333
+    ]
+  },
+  {
+    "id": 621642,
+    "name": "Saltanawshchyna",
+    "country": "BY",
+    "coord": [
+      53.200001,
+      26.816668
+    ]
+  },
+  {
+    "id": 627773,
+    "name": "Kachanovichy",
+    "country": "BY",
+    "coord": [
+      53.183334,
+      26.75
+    ]
+  },
+  {
+    "id": 624399,
+    "name": "Novoye Mesto",
+    "country": "BY",
+    "coord": [
+      53.216667,
+      26.700001
+    ]
+  },
+  {
+    "id": 624700,
+    "name": "Nyasvizh",
+    "country": "BY",
+    "coord": [
+      53.218056,
+      26.672501
+    ]
+  },
+  {
+    "id": 622621,
+    "name": "Rudawka",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      26.65
+    ]
+  },
+  {
+    "id": 619015,
+    "name": "Zavitaya",
+    "country": "BY",
+    "coord": [
+      53.266666,
+      26.633333
+    ]
+  },
+  {
+    "id": 620475,
+    "name": "Uzhanka",
+    "country": "BY",
+    "coord": [
+      53.299999,
+      26.583332
+    ]
+  },
+  {
+    "id": 625614,
+    "name": "Mala-Uzhanka",
+    "country": "BY",
+    "coord": [
+      53.299999,
+      26.566668
+    ]
+  },
+  {
+    "id": 628182,
+    "name": "Haradzyeya",
+    "country": "BY",
+    "coord": [
+      53.316666,
+      26.533333
+    ]
+  },
+  {
+    "id": 624396,
+    "name": "Novaya Vyoska",
+    "country": "BY",
+    "coord": [
+      53.349998,
+      26.533333
+    ]
+  },
+  {
+    "id": 623411,
+    "name": "Podlese",
+    "country": "BY",
+    "coord": [
+      53.383331,
+      26.533333
+    ]
+  },
+  {
+    "id": 621949,
+    "name": "Simakovo",
+    "country": "BY",
+    "coord": [
+      53.400002,
+      26.483334
+    ]
+  },
+  {
+    "id": 620335,
+    "name": "Velikoye Selo",
+    "country": "BY",
+    "coord": [
+      53.433334,
+      26.5
+    ]
+  },
+  {
+    "id": 625128,
+    "name": "Mir",
+    "country": "BY",
+    "coord": [
+      53.450001,
+      26.466667
+    ]
+  },
+  {
+    "id": 623596,
+    "name": "Pesochnaya",
+    "country": "BY",
+    "coord": [
+      53.483334,
+      26.4
+    ]
+  },
+  {
+    "id": 620786,
+    "name": "Troshchytsy",
+    "country": "BY",
+    "coord": [
+      53.483334,
+      26.383333
+    ]
+  },
+  {
+    "id": 623934,
+    "name": "Ostrovki",
+    "country": "BY",
+    "coord": [
+      53.5,
+      26.366667
+    ]
+  },
+  {
+    "id": 619340,
+    "name": "Zagor\u2019ye",
+    "country": "BY",
+    "coord": [
+      53.5,
+      26.35
+    ]
+  },
+  {
+    "id": 620692,
+    "name": "Turets",
+    "country": "BY",
+    "coord": [
+      53.516666,
+      26.316668
+    ]
+  },
+  {
+    "id": 629960,
+    "name": "Velikaya Sloboda",
+    "country": "BY",
+    "coord": [
+      53.549999,
+      26.25
+    ]
+  },
+  {
+    "id": 622816,
+    "name": "Roviny",
+    "country": "BY",
+    "coord": [
+      53.549999,
+      26.133333
+    ]
+  },
+  {
+    "id": 628035,
+    "name": "Hrodzyenskaya Voblasts\u2019",
+    "country": "BY",
+    "coord": [
+      53.5,
+      24.5
+    ]
+  },
+  {
+    "id": 626939,
+    "name": "Karelichy",
+    "country": "BY",
+    "coord": [
+      53.565277,
+      26.137777
+    ]
+  },
+  {
+    "id": 620712,
+    "name": "Tudorovo",
+    "country": "BY",
+    "coord": [
+      53.583332,
+      26.1
+    ]
+  },
+  {
+    "id": 627106,
+    "name": "Kol\u2019chitsy Novyye",
+    "country": "BY",
+    "coord": [
+      53.599998,
+      26.1
+    ]
+  },
+  {
+    "id": 623296,
+    "name": "Polonaya",
+    "country": "BY",
+    "coord": [
+      53.599998,
+      26.049999
+    ]
+  },
+  {
+    "id": 620079,
+    "name": "Vawkavichy",
+    "country": "BY",
+    "coord": [
+      53.583332,
+      25.950001
+    ]
+  },
+  {
+    "id": 622606,
+    "name": "Rutka Pervaya",
+    "country": "BY",
+    "coord": [
+      53.566666,
+      25.9
+    ]
+  },
+  {
+    "id": 624785,
+    "name": "Navahrudak",
+    "country": "BY",
+    "coord": [
+      53.599998,
+      25.833332
+    ]
+  },
+  {
+    "id": 626884,
+    "name": "Korostovo",
+    "country": "BY",
+    "coord": [
+      53.583332,
+      25.833332
+    ]
+  },
+  {
+    "id": 625259,
+    "name": "Mitropol\u2019",
+    "country": "BY",
+    "coord": [
+      53.599998,
+      25.799999
+    ]
+  },
+  {
+    "id": 625066,
+    "name": "Mogil\u2019nitsy",
+    "country": "BY",
+    "coord": [
+      53.549999,
+      25.716667
+    ]
+  },
+  {
+    "id": 626849,
+    "name": "Kashalyova",
+    "country": "BY",
+    "coord": [
+      53.533333,
+      25.716667
+    ]
+  },
+  {
+    "id": 625742,
+    "name": "Lykovichi",
+    "country": "BY",
+    "coord": [
+      53.516666,
+      26.283333
+    ]
+  },
+  {
+    "id": 627346,
+    "name": "Khrol\u2019chitsy",
+    "country": "BY",
+    "coord": [
+      53.5,
+      25.666668
+    ]
+  },
+  {
+    "id": 624453,
+    "name": "Novos\u00eblki",
+    "country": "BY",
+    "coord": [
+      53.5,
+      25.65
+    ]
+  },
+  {
+    "id": 629183,
+    "name": "Danilavichy",
+    "country": "BY",
+    "coord": [
+      53.450001,
+      25.65
+    ]
+  },
+  {
+    "id": 624401,
+    "name": "Navayel\u2019nya",
+    "country": "BY",
+    "coord": [
+      53.466667,
+      25.583332
+    ]
+  },
+  {
+    "id": 623289,
+    "name": "Polonki",
+    "country": "BY",
+    "coord": [
+      53.416668,
+      25.549999
+    ]
+  },
+  {
+    "id": 628692,
+    "name": "Dvarets",
+    "country": "BY",
+    "coord": [
+      53.400002,
+      25.566668
+    ]
+  },
+  {
+    "id": 629458,
+    "name": "Belolozy",
+    "country": "BY",
+    "coord": [
+      53.316666,
+      25.6
+    ]
+  },
+  {
+    "id": 625281,
+    "name": "Melyakhovichi",
+    "country": "BY",
+    "coord": [
+      53.299999,
+      25.6
+    ]
+  },
+  {
+    "id": 623649,
+    "name": "Pyerkhavichy",
+    "country": "BY",
+    "coord": [
+      53.25,
+      25.65
+    ]
+  },
+  {
+    "id": 620154,
+    "name": "Vishev",
+    "country": "BY",
+    "coord": [
+      53.233334,
+      25.533333
+    ]
+  },
+  {
+    "id": 629092,
+    "name": "Dzyerawnaya",
+    "country": "BY",
+    "coord": [
+      53.200001,
+      25.483334
+    ]
+  },
+  {
+    "id": 619341,
+    "name": "Zagritskovo",
+    "country": "BY",
+    "coord": [
+      53.150002,
+      25.450001
+    ]
+  },
+  {
+    "id": 623588,
+    "name": "Petralevichi Pervyye",
+    "country": "BY",
+    "coord": [
+      53.116669,
+      25.366667
+    ]
+  },
+  {
+    "id": 621754,
+    "name": "Slonim",
+    "country": "BY",
+    "coord": [
+      53.086666,
+      25.321943
+    ]
+  },
+  {
+    "id": 629644,
+    "name": "Brakovo",
+    "country": "BY",
+    "coord": [
+      53.049999,
+      25.283333
+    ]
+  },
+  {
+    "id": 626826,
+    "name": "Kastsyani",
+    "country": "BY",
+    "coord": [
+      53.066666,
+      25.200001
+    ]
+  },
+  {
+    "id": 624089,
+    "name": "Novoorlovichi",
+    "country": "BY",
+    "coord": [
+      53.016666,
+      25.183332
+    ]
+  },
+  {
+    "id": 623848,
+    "name": "Azhinavichy",
+    "country": "BY",
+    "coord": [
+      53.016666,
+      25.166668
+    ]
+  },
+  {
+    "id": 623762,
+    "name": "Pasinichi",
+    "country": "BY",
+    "coord": [
+      53.016666,
+      25.1
+    ]
+  },
+  {
+    "id": 627470,
+    "name": "Khmel\u2019nitsa",
+    "country": "BY",
+    "coord": [
+      52.983334,
+      25.133333
+    ]
+  },
+  {
+    "id": 625100,
+    "name": "Mizhevichy",
+    "country": "BY",
+    "coord": [
+      52.983334,
+      25.083332
+    ]
+  },
+  {
+    "id": 623925,
+    "name": "Vostrava",
+    "country": "BY",
+    "coord": [
+      52.950001,
+      25.033333
+    ]
+  },
+  {
+    "id": 626780,
+    "name": "Kovali",
+    "country": "BY",
+    "coord": [
+      52.883331,
+      25.016666
+    ]
+  },
+  {
+    "id": 629631,
+    "name": "Brestskaya Voblasts\u2019",
+    "country": "BY",
+    "coord": [
+      52.5,
+      25.5
+    ]
+  },
+  {
+    "id": 622500,
+    "name": "Ruzhany",
+    "country": "BY",
+    "coord": [
+      52.864723,
+      24.891945
+    ]
+  },
+  {
+    "id": 620015,
+    "name": "Volya",
+    "country": "BY",
+    "coord": [
+      52.849998,
+      24.866667
+    ]
+  },
+  {
+    "id": 625027,
+    "name": "Molochki",
+    "country": "BY",
+    "coord": [
+      52.833332,
+      24.85
+    ]
+  },
+  {
+    "id": 627233,
+    "name": "Klepachi",
+    "country": "BY",
+    "coord": [
+      52.799999,
+      24.85
+    ]
+  },
+  {
+    "id": 621719,
+    "name": "Smolyanitsa",
+    "country": "BY",
+    "coord": [
+      52.700001,
+      24.633333
+    ]
+  },
+  {
+    "id": 627403,
+    "name": "Kharava",
+    "country": "BY",
+    "coord": [
+      52.633331,
+      24.583332
+    ]
+  },
+  {
+    "id": 627057,
+    "name": "Kolyadichi",
+    "country": "BY",
+    "coord": [
+      52.650002,
+      24.549999
+    ]
+  },
+  {
+    "id": 629009,
+    "name": "Dabuchyn",
+    "country": "BY",
+    "coord": [
+      52.616669,
+      24.516666
+    ]
+  },
+  {
+    "id": 622997,
+    "name": "Pruzhany",
+    "country": "BY",
+    "coord": [
+      52.556667,
+      24.464443
+    ]
+  },
+  {
+    "id": 622096,
+    "name": "Shani",
+    "country": "BY",
+    "coord": [
+      52.533333,
+      24.4
+    ]
+  },
+  {
+    "id": 626799,
+    "name": "Kot\u00eblki",
+    "country": "BY",
+    "coord": [
+      52.516666,
+      24.35
+    ]
+  },
+  {
+    "id": 622206,
+    "name": "Shakuny",
+    "country": "BY",
+    "coord": [
+      52.483334,
+      24.35
+    ]
+  },
+  {
+    "id": 628204,
+    "name": "Haradzyechna",
+    "country": "BY",
+    "coord": [
+      52.433334,
+      24.299999
+    ]
+  },
+  {
+    "id": 623440,
+    "name": "Poddubno",
+    "country": "BY",
+    "coord": [
+      52.416668,
+      24.216667
+    ]
+  },
+  {
+    "id": 622131,
+    "name": "Shcharchova",
+    "country": "BY",
+    "coord": [
+      52.416668,
+      24.15
+    ]
+  },
+  {
+    "id": 628654,
+    "name": "Dymniki",
+    "country": "BY",
+    "coord": [
+      52.383331,
+      24.1
+    ]
+  },
+  {
+    "id": 625283,
+    "name": "Mel\u2019niki",
+    "country": "BY",
+    "coord": [
+      52.400002,
+      24.016666
+    ]
+  },
+  {
+    "id": 623708,
+    "name": "Pyelishcha",
+    "country": "BY",
+    "coord": [
+      52.316666,
+      23.916668
+    ]
+  },
+  {
+    "id": 623407,
+    "name": "Podlese",
+    "country": "BY",
+    "coord": [
+      52.283333,
+      23.866667
+    ]
+  },
+  {
+    "id": 620681,
+    "name": "Turna Vyalikaya",
+    "country": "BY",
+    "coord": [
+      52.283333,
+      23.783333
+    ]
+  },
+  {
+    "id": 619023,
+    "name": "Zavershany",
+    "country": "BY",
+    "coord": [
+      52.25,
+      23.766666
+    ]
+  },
+  {
+    "id": 629338,
+    "name": "Charnawchytsy",
+    "country": "BY",
+    "coord": [
+      52.216667,
+      23.733334
+    ]
+  },
+  {
+    "id": 620364,
+    "name": "Velikaya Kurnitsa",
+    "country": "BY",
+    "coord": [
+      52.183334,
+      23.75
+    ]
+  },
+  {
+    "id": 620647,
+    "name": "Tyukhinichi",
+    "country": "BY",
+    "coord": [
+      52.150002,
+      23.666668
+    ]
+  },
+  {
+    "id": 622805,
+    "name": "Rechitsa",
+    "country": "BY",
+    "coord": [
+      52.099998,
+      23.65
+    ]
+  },
+  {
+    "id": 629634,
+    "name": "Brest",
+    "country": "BY",
+    "coord": [
+      52.099998,
+      23.700001
+    ]
+  },
+  {
+    "id": 620013,
+    "name": "Volynka",
+    "country": "BY",
+    "coord": [
+      52.066666,
+      23.683332
+    ]
+  },
+  {
+    "id": 628175,
+    "name": "Haradzishcha",
+    "country": "BY",
+    "coord": [
+      53.316669,
+      26
+    ]
+  },
+  {
+    "id": 627260,
+    "name": "Kiseli",
+    "country": "BY",
+    "coord": [
+      53.333328,
+      25.98333
+    ]
+  },
+  {
+    "id": 7003109,
+    "name": "Zyalyonaya",
+    "country": "BY",
+    "coord": [
+      53.35857,
+      25.9762
+    ]
+  },
+  {
+    "id": 628706,
+    "name": "Dushkovtsy",
+    "country": "BY",
+    "coord": [
+      53.366669,
+      25.950001
+    ]
+  },
+  {
+    "id": 623208,
+    "name": "Porech\u2019ye",
+    "country": "BY",
+    "coord": [
+      53.416672,
+      25.9
+    ]
+  },
+  {
+    "id": 620451,
+    "name": "Valyewka",
+    "country": "BY",
+    "coord": [
+      53.466671,
+      25.9
+    ]
+  },
+  {
+    "id": 625125,
+    "name": "Miratsichy",
+    "country": "BY",
+    "coord": [
+      53.450001,
+      25.950001
+    ]
+  },
+  {
+    "id": 621858,
+    "name": "Skrysh\u00ebvo",
+    "country": "BY",
+    "coord": [
+      53.466671,
+      25.98333
+    ]
+  },
+  {
+    "id": 622811,
+    "name": "Raytsa",
+    "country": "BY",
+    "coord": [
+      53.466671,
+      26.033331
+    ]
+  },
+  {
+    "id": 625495,
+    "name": "Malyushychy",
+    "country": "BY",
+    "coord": [
+      53.48333,
+      26.066669
+    ]
+  },
+  {
+    "id": 622228,
+    "name": "Servech",
+    "country": "BY",
+    "coord": [
+      53.5,
+      26.133329
+    ]
+  },
+  {
+    "id": 623268,
+    "name": "Paluzhzha",
+    "country": "BY",
+    "coord": [
+      53.533329,
+      26.116671
+    ]
+  },
+  {
+    "id": 8020123,
+    "name": "Yasen\u2019",
+    "country": "BY",
+    "coord": [
+      53.4492,
+      27.3592
+    ]
+  },
+  {
+    "id": 8146819,
+    "name": "Oser\u00ebdok",
+    "country": "BY",
+    "coord": [
+      52.9977,
+      28.0051
+    ]
+  },
+  {
+    "id": 8019684,
+    "name": "Rzhavets",
+    "country": "BY",
+    "coord": [
+      53.9352,
+      27.4641
+    ]
+  },
+  {
+    "id": 8019783,
+    "name": "Serebryanka",
+    "country": "BY",
+    "coord": [
+      53.856098,
+      27.6024
+    ]
+  },
+  {
+    "id": 8019660,
+    "name": "Vostok",
+    "country": "BY",
+    "coord": [
+      53.937801,
+      27.6457
+    ]
+  },
+  {
+    "id": 628763,
+    "name": "Dubrovki",
+    "country": "BY",
+    "coord": [
+      55.006649,
+      29.512659
+    ]
+  },
+  {
+    "id": 618982,
+    "name": "Zaytsevo",
+    "country": "BY",
+    "coord": [
+      54.502972,
+      30.31818
+    ]
+  },
+  {
+    "id": 621849,
+    "name": "Slasteny",
+    "country": "BY",
+    "coord": [
+      53.996109,
+      30.77194
+    ]
+  },
+  {
+    "id": 624596,
+    "name": "Novaya Derevnya",
+    "country": "BY",
+    "coord": [
+      53.166672,
+      29.366671
+    ]
+  },
+  {
+    "id": 627121,
+    "name": "Kokhonovka",
+    "country": "BY",
+    "coord": [
+      53.180901,
+      28.7609
+    ]
+  },
+  {
+    "id": 8146894,
+    "name": "Molotino",
+    "country": "BY",
+    "coord": [
+      53.277199,
+      28.5937
+    ]
+  },
+  {
+    "id": 625059,
+    "name": "Moiseyevichi",
+    "country": "BY",
+    "coord": [
+      53.215,
+      28.2852
+    ]
+  },
+  {
+    "id": 8146308,
+    "name": "Malinovka",
+    "country": "BY",
+    "coord": [
+      53.236698,
+      27.9471
+    ]
+  },
+  {
+    "id": 8146316,
+    "name": "Bobovishchi",
+    "country": "BY",
+    "coord": [
+      53.192299,
+      27.5818
+    ]
+  },
+  {
+    "id": 8047227,
+    "name": "Dushevo",
+    "country": "BY",
+    "coord": [
+      53.195801,
+      26.9891
+    ]
+  },
+  {
+    "id": 620474,
+    "name": "Uzhanka-Vel\u2019ka",
+    "country": "BY",
+    "coord": [
+      53.299999,
+      26.58333
+    ]
+  },
+  {
+    "id": 8077353,
+    "name": "Soroki",
+    "country": "BY",
+    "coord": [
+      53.508701,
+      24.5091
+    ]
+  },
+  {
+    "id": 7930860,
+    "name": "Kuborka",
+    "country": "BY",
+    "coord": [
+      53.587601,
+      25.8363
+    ]
+  },
+  {
+    "id": 7930855,
+    "name": "Grabniki",
+    "country": "BY",
+    "coord": [
+      53.604301,
+      25.801399
+    ]
+  },
+  {
+    "id": 7930993,
+    "name": "Polonka Malaya",
+    "country": "BY",
+    "coord": [
+      53.424099,
+      25.5515
+    ]
+  },
+  {
+    "id": 629459,
+    "name": "Byelahurna",
+    "country": "BY",
+    "coord": [
+      53.309101,
+      25.595301
+    ]
+  },
+  {
+    "id": 8182938,
+    "name": "Petralevichi Vtoryye",
+    "country": "BY",
+    "coord": [
+      53.111198,
+      25.3668
+    ]
+  },
+  {
+    "id": 624273,
+    "name": "Abrova",
+    "country": "BY",
+    "coord": [
+      52.5084,
+      25.561001
+    ]
+  },
+  {
+    "id": 630353,
+    "name": "Bayki",
+    "country": "BY",
+    "coord": [
+      52.830231,
+      24.85132
+    ]
+  },
+  {
+    "id": 8174179,
+    "name": "Voshchinichi",
+    "country": "BY",
+    "coord": [
+      52.651299,
+      24.5639
+    ]
+  },
+  {
+    "id": 620181,
+    "name": "Vilyeyka",
+    "country": "BY",
+    "coord": [
+      54.489601,
+      26.90624
+    ]
+  },
+  {
+    "id": 8075472,
+    "name": "Koshovniki",
+    "country": "BY",
+    "coord": [
+      53.6506,
+      23.897301
+    ]
+  },
+  {
+    "id": 623549,
+    "name": "Pinsk",
+    "country": "BY",
+    "coord": [
+      52.122898,
+      26.0951
+    ]
+  },
+  {
+    "id": 622245,
+    "name": "Seredoma",
+    "country": "BY",
+    "coord": [
+      55.533329,
+      28.65
+    ]
+  },
+  {
+    "id": 620127,
+    "name": "Vitsyebsk",
+    "country": "BY",
+    "coord": [
+      55.190479,
+      30.2033
+    ]
+  },
+  {
+    "id": 628281,
+    "name": "Homyel\u2019skaya Voblasts\u2019",
+    "country": "BY",
+    "coord": [
+      52,
+      30
+    ]
+  },
+  {
+    "id": 627907,
+    "name": "Homyel",
+    "country": "BY",
+    "coord": [
+      52.434502,
+      30.975401
+    ]
+  },
+  {
+    "id": 623109,
+    "name": "Prigorod Kolozha",
+    "country": "BY",
+    "coord": [
+      53.683331,
+      23.816669
+    ]
+  },
+  {
+    "id": 618806,
+    "name": "Zhlobin",
+    "country": "BY",
+    "coord": [
+      52.892601,
+      30.024
+    ]
+  },
+  {
+    "id": 625324,
+    "name": "Mazyr",
+    "country": "BY",
+    "coord": [
+      52.0495,
+      29.2456
+    ]
+  },
+  {
+    "id": 828884,
+    "name": "Horad Kobryn",
+    "country": "BY",
+    "coord": [
+      52.21611,
+      24.36639
+    ]
+  },
+  {
+    "id": 620182,
+    "name": "Vil\u2019chitsy",
+    "country": "BY",
+    "coord": [
+      53.7812,
+      30.34499
+    ]
+  },
+  {
+    "id": 630376,
+    "name": "Horad Barysaw",
+    "country": "BY",
+    "coord": [
+      54.231232,
+      28.50485
+    ]
+  },
+  {
+    "id": 8183145,
+    "name": "Chyzhevichy",
+    "country": "BY",
+    "coord": [
+      52.809101,
+      27.5383
+    ]
+  },
+  {
+    "id": 625367,
+    "name": "Masty",
+    "country": "BY",
+    "coord": [
+      53.412201,
+      24.5387
+    ]
+  },
+  {
+    "id": 621235,
+    "name": "Stryyewka",
+    "country": "BY",
+    "coord": [
+      53.735901,
+      24.141399
+    ]
+  },
+  {
+    "id": 618913,
+    "name": "Zhabinka",
+    "country": "BY",
+    "coord": [
+      52.198399,
+      24.011499
+    ]
+  },
+  {
+    "id": 625067,
+    "name": "Mogil\u2019na",
+    "country": "BY",
+    "coord": [
+      52.133331,
+      25.533331
+    ]
+  },
+  {
+    "id": 623499,
+    "name": "Pligovki",
+    "country": "BY",
+    "coord": [
+      55.372131,
+      29.548189
+    ]
+  },
+  {
+    "id": 628884,
+    "name": "Drahichyn",
+    "country": "BY",
+    "coord": [
+      52.187401,
+      25.1597
+    ]
+  },
+  {
+    "id": 622258,
+    "name": "Syanno",
+    "country": "BY",
+    "coord": [
+      54.810551,
+      29.70694
+    ]
+  },
+  {
+    "id": 621986,
+    "name": "Shumilina",
+    "country": "BY",
+    "coord": [
+      55.300819,
+      29.614889
+    ]
+  },
+  {
+    "id": 828886,
+    "name": "Horad Pinsk",
+    "country": "BY",
+    "coord": [
+      52.121391,
+      26.072781
+    ]
+  },
+  {
+    "id": 627800,
+    "name": "Ivatsevichy",
+    "country": "BY",
+    "coord": [
+      52.709,
+      25.340099
+    ]
+  },
+  {
+    "id": 626478,
+    "name": "Krupenina",
+    "country": "BY",
+    "coord": [
+      55.131592,
+      29.802641
+    ]
+  },
+  {
+    "id": 628579,
+    "name": "Frolkovichi",
+    "country": "BY",
+    "coord": [
+      55.200821,
+      29.232719
+    ]
+  },
+  {
+    "id": 626081,
+    "name": "Lida",
+    "country": "BY",
+    "coord": [
+      53.883331,
+      25.299721
+    ]
+  },
+  {
+    "id": 625233,
+    "name": "Mgle",
+    "country": "BY",
+    "coord": [
+      54.130661,
+      28.070629
+    ]
+  },
+  {
+    "id": 626634,
+    "name": "Krasnitsa Pervaya",
+    "country": "BY",
+    "coord": [
+      53.79768,
+      30.191
+    ]
+  },
+  {
+    "id": 625625,
+    "name": "Maladzyechna",
+    "country": "BY",
+    "coord": [
+      54.320518,
+      26.864361
+    ]
+  },
+  {
+    "id": 626226,
+    "name": "Latygovka",
+    "country": "BY",
+    "coord": [
+      54.179008,
+      27.41106
+    ]
+  },
+  {
+    "id": 624853,
+    "name": "Myasota",
+    "country": "BY",
+    "coord": [
+      54.285709,
+      27.046
+    ]
+  },
+  {
+    "id": 620214,
+    "name": "Vyetka",
+    "country": "BY",
+    "coord": [
+      52.559101,
+      31.179399
+    ]
+  },
+  {
+    "id": 621266,
+    "name": "Stowbtsy",
+    "country": "BY",
+    "coord": [
+      53.4785,
+      26.743401
+    ]
+  },
+  {
+    "id": 625229,
+    "name": "Miguvka",
+    "country": "BY",
+    "coord": [
+      54.180771,
+      27.20166
+    ]
+  },
+  {
+    "id": 628155,
+    "name": "Haradok",
+    "country": "BY",
+    "coord": [
+      55.462429,
+      29.98164
+    ]
+  },
+  {
+    "id": 625721,
+    "name": "Lyuban",
+    "country": "BY",
+    "coord": [
+      52.7985,
+      28.004801
+    ]
+  },
+  {
+    "id": 630279,
+    "name": "Byelaazyorsk",
+    "country": "BY",
+    "coord": [
+      52.473099,
+      25.1784
+    ]
+  },
+  {
+    "id": 611866,
+    "name": "Skidal",
+    "country": "BY",
+    "coord": [
+      53.590401,
+      24.247801
+    ]
+  },
+  {
+    "id": 630131,
+    "name": "Besyady",
+    "country": "BY",
+    "coord": [
+      54.230591,
+      27.570641
+    ]
+  },
+  {
+    "id": 622575,
+    "name": "Rudnya",
+    "country": "BY",
+    "coord": [
+      54.316669,
+      27.566669
+    ]
+  },
+  {
+    "id": 622739,
+    "name": "Rahachow",
+    "country": "BY",
+    "coord": [
+      53.093399,
+      30.0495
+    ]
+  },
+  {
+    "id": 619979,
+    "name": "Voranava",
+    "country": "BY",
+    "coord": [
+      54.1483,
+      25.313061
+    ]
+  },
+  {
+    "id": 625972,
+    "name": "Lahoysk",
+    "country": "BY",
+    "coord": [
+      54.20158,
+      27.85025
+    ]
+  },
+  {
+    "id": 623184,
+    "name": "Pos\u00eblok Imeni Kalinina",
+    "country": "BY",
+    "coord": [
+      53.950001,
+      27.783331
+    ]
+  },
+  {
+    "id": 620540,
+    "name": "Ushachy",
+    "country": "BY",
+    "coord": [
+      55.178581,
+      28.6035
+    ]
+  },
+  {
+    "id": 625743,
+    "name": "Lyepyel",
+    "country": "BY",
+    "coord": [
+      54.881432,
+      28.69323
+    ]
+  },
+  {
+    "id": 620833,
+    "name": "Talachyn",
+    "country": "BY",
+    "coord": [
+      54.409679,
+      29.69171
+    ]
+  },
+  {
+    "id": 621741,
+    "name": "Slutsk",
+    "country": "BY",
+    "coord": [
+      53.027401,
+      27.5597
+    ]
+  },
+  {
+    "id": 629447,
+    "name": "Bykhaw",
+    "country": "BY",
+    "coord": [
+      53.519348,
+      30.246929
+    ]
+  },
+  {
+    "id": 8019624,
+    "name": "Kladochki",
+    "country": "BY",
+    "coord": [
+      53.9977,
+      27.271999
+    ]
+  },
+  {
+    "id": 621074,
+    "name": "Svyetlahorsk",
+    "country": "BY",
+    "coord": [
+      52.6329,
+      29.738899
+    ]
+  },
+  {
+    "id": 620391,
+    "name": "Vawkavysk",
+    "country": "BY",
+    "coord": [
+      53.156101,
+      24.4513
+    ]
+  },
+  {
+    "id": 630206,
+    "name": "Ber\u00ebza",
+    "country": "BY",
+    "coord": [
+      52.292,
+      24.3738
+    ]
+  },
+  {
+    "id": 627214,
+    "name": "Klyetsk",
+    "country": "BY",
+    "coord": [
+      53.063499,
+      26.632099
+    ]
+  },
+  {
+    "id": 621713,
+    "name": "Smarhon",
+    "country": "BY",
+    "coord": [
+      54.479061,
+      26.3934
+    ]
+  },
+  {
+    "id": 627798,
+    "name": "Ivyanyets",
+    "country": "BY",
+    "coord": [
+      53.886398,
+      26.7432
+    ]
+  },
+  {
+    "id": 628296,
+    "name": "Golynka",
+    "country": "BY",
+    "coord": [
+      53.177299,
+      23.9065
+    ]
+  },
+  {
+    "id": 629400,
+    "name": "Chashniki",
+    "country": "BY",
+    "coord": [
+      54.85685,
+      29.160721
+    ]
+  },
+  {
+    "id": 621462,
+    "name": "Starobin",
+    "country": "BY",
+    "coord": [
+      52.7267,
+      27.4606
+    ]
+  },
+  {
+    "id": 621256,
+    "name": "Strazhevichi",
+    "country": "BY",
+    "coord": [
+      54.663212,
+      29.230009
+    ]
+  },
+  {
+    "id": 630245,
+    "name": "Byalynichy",
+    "country": "BY",
+    "coord": [
+      53.998348,
+      29.712629
+    ]
+  },
+  {
+    "id": 8147026,
+    "name": "Podzamsha",
+    "country": "BY",
+    "coord": [
+      52.8806,
+      28.688999
+    ]
+  },
+  {
+    "id": 628634,
+    "name": "Dzyarzhynsk",
+    "country": "BY",
+    "coord": [
+      53.683201,
+      27.138
+    ]
+  },
+  {
+    "id": 629018,
+    "name": "Dobrush",
+    "country": "BY",
+    "coord": [
+      52.408901,
+      31.3237
+    ]
+  },
+  {
+    "id": 8076629,
+    "name": "Minchuki",
+    "country": "BY",
+    "coord": [
+      53.122501,
+      23.9538
+    ]
+  },
+  {
+    "id": 625409,
+    "name": "Marina Horka",
+    "country": "BY",
+    "coord": [
+      53.508999,
+      28.146999
+    ]
+  },
+  {
+    "id": 620445,
+    "name": "Valozhyn",
+    "country": "BY",
+    "coord": [
+      54.090931,
+      26.522461
+    ]
+  },
+  {
+    "id": 626450,
+    "name": "Krychaw",
+    "country": "BY",
+    "coord": [
+      53.694481,
+      31.70994
+    ]
+  },
+  {
+    "id": 623760,
+    "name": "Pastavy",
+    "country": "BY",
+    "coord": [
+      55.11676,
+      26.83263
+    ]
+  },
+  {
+    "id": 626621,
+    "name": "Krasnasyelski",
+    "country": "BY",
+    "coord": [
+      53.2645,
+      24.430099
+    ]
+  },
+  {
+    "id": 623317,
+    "name": "Polatsk",
+    "country": "BY",
+    "coord": [
+      55.48592,
+      28.77556
+    ]
+  },
+  {
+    "id": 623941,
+    "name": "Astravyets",
+    "country": "BY",
+    "coord": [
+      54.613781,
+      25.95537
+    ]
+  },
+  {
+    "id": 828885,
+    "name": "Horad Luninyets",
+    "country": "BY",
+    "coord": [
+      52.250278,
+      26.79944
+    ]
+  },
+  {
+    "id": 629347,
+    "name": "Cherykaw",
+    "country": "BY",
+    "coord": [
+      53.569199,
+      31.37928
+    ]
+  },
+  {
+    "id": 621548,
+    "name": "Stanislavovo",
+    "country": "BY",
+    "coord": [
+      55.900002,
+      28.816669
+    ]
+  },
+  {
+    "id": 629055,
+    "name": "Dzisna",
+    "country": "BY",
+    "coord": [
+      55.567989,
+      28.19714
+    ]
+  },
+  {
+    "id": 626471,
+    "name": "Krupki",
+    "country": "BY",
+    "coord": [
+      54.317799,
+      29.135839
+    ]
+  },
+  {
+    "id": 629002,
+    "name": "Dokshytsy",
+    "country": "BY",
+    "coord": [
+      54.892422,
+      27.76894
+    ]
+  },
+  {
+    "id": 625130,
+    "name": "Myory",
+    "country": "BY",
+    "coord": [
+      55.621712,
+      27.6299
+    ]
+  },
+  {
+    "id": 618815,
+    "name": "Zhytkavichy",
+    "country": "BY",
+    "coord": [
+      52.216801,
+      27.8561
+    ]
+  },
+  {
+    "id": 627751,
+    "name": "Kalinkavichy",
+    "country": "BY",
+    "coord": [
+      52.132301,
+      29.325701
+    ]
+  },
+  {
+    "id": 627905,
+    "name": "Horki",
+    "country": "BY",
+    "coord": [
+      54.286098,
+      30.98424
+    ]
+  },
+  {
+    "id": 630543,
+    "name": "Antopal",
+    "country": "BY",
+    "coord": [
+      52.2038,
+      24.786301
+    ]
+  },
+  {
+    "id": 622113,
+    "name": "Shchuchin",
+    "country": "BY",
+    "coord": [
+      53.601398,
+      24.7465
+    ]
+  },
+  {
+    "id": 619076,
+    "name": "Zasyetstsye",
+    "country": "BY",
+    "coord": [
+      53.498001,
+      25.3995
+    ]
+  },
+  {
+    "id": 626041,
+    "name": "Lipnishki",
+    "country": "BY",
+    "coord": [
+      54.004478,
+      25.60828
+    ]
+  },
+  {
+    "id": 621396,
+    "name": "Staryya Darohi",
+    "country": "BY",
+    "coord": [
+      53.040199,
+      28.267
+    ]
+  },
+  {
+    "id": 622823,
+    "name": "Ratamka",
+    "country": "BY",
+    "coord": [
+      53.940399,
+      27.3444
+    ]
+  },
+  {
+    "id": 625228,
+    "name": "Mikashevichy",
+    "country": "BY",
+    "coord": [
+      52.2173,
+      27.476
+    ]
+  },
+  {
+    "id": 627950,
+    "name": "Gusak",
+    "country": "BY",
+    "coord": [
+      51.924999,
+      24.0811
+    ]
+  },
+  {
+    "id": 621277,
+    "name": "Stolin",
+    "country": "BY",
+    "coord": [
+      51.891151,
+      26.84597
+    ]
+  },
+  {
+    "id": 623512,
+    "name": "Plyeshchanitsy",
+    "country": "BY",
+    "coord": [
+      54.42218,
+      27.833139
+    ]
+  },
+  {
+    "id": 622274,
+    "name": "Syenitsa",
+    "country": "BY",
+    "coord": [
+      53.831299,
+      27.5343
+    ]
+  },
+  {
+    "id": 628511,
+    "name": "Hatava",
+    "country": "BY",
+    "coord": [
+      53.782902,
+      27.640699
+    ]
+  },
+  {
+    "id": 620483,
+    "name": "Uzda",
+    "country": "BY",
+    "coord": [
+      53.4627,
+      27.213699
+    ]
+  },
+  {
+    "id": 627711,
+    "name": "Kamyanyets",
+    "country": "BY",
+    "coord": [
+      52.400139,
+      23.809999
+    ]
+  },
+  {
+    "id": 619598,
+    "name": "Yelsk",
+    "country": "BY",
+    "coord": [
+      51.814098,
+      29.152201
+    ]
+  },
+  {
+    "id": 629395,
+    "name": "Chavusy",
+    "country": "BY",
+    "coord": [
+      53.807529,
+      30.97122
+    ]
+  },
+  {
+    "id": 621243,
+    "name": "Streshyn",
+    "country": "BY",
+    "coord": [
+      52.728401,
+      30.104601
+    ]
+  },
+  {
+    "id": 630070,
+    "name": "Bobr",
+    "country": "BY",
+    "coord": [
+      54.342941,
+      29.27792
+    ]
+  },
+  {
+    "id": 627908,
+    "name": "Hlybokaye",
+    "country": "BY",
+    "coord": [
+      55.138229,
+      27.687929
+    ]
+  },
+  {
+    "id": 619596,
+    "name": "Yemel\u2019yanovo",
+    "country": "BY",
+    "coord": [
+      54.071091,
+      28.029671
+    ]
+  },
+  {
+    "id": 625539,
+    "name": "Malaryta",
+    "country": "BY",
+    "coord": [
+      51.790501,
+      24.073999
+    ]
+  },
+  {
+    "id": 828899,
+    "name": "Horad Rechytsa",
+    "country": "BY",
+    "coord": [
+      52.363892,
+      30.39472
+    ]
+  },
+  {
+    "id": 8021870,
+    "name": "Peski",
+    "country": "BY",
+    "coord": [
+      52.152699,
+      23.5931
+    ]
+  },
+  {
+    "id": 630136,
+    "name": "Byeshankovichy",
+    "country": "BY",
+    "coord": [
+      55.044491,
+      29.45335
+    ]
+  },
+  {
+    "id": 629589,
+    "name": "Bryanchitsy",
+    "country": "BY",
+    "coord": [
+      52.880299,
+      27.5467
+    ]
+  },
+  {
+    "id": 624143,
+    "name": "Oltush",
+    "country": "BY",
+    "coord": [
+      51.690201,
+      23.9722
+    ]
+  },
+  {
+    "id": 627909,
+    "name": "Hantsavichy",
+    "country": "BY",
+    "coord": [
+      52.757999,
+      26.43
+    ]
+  },
+  {
+    "id": 8019967,
+    "name": "Bagritsovshchina",
+    "country": "BY",
+    "coord": [
+      53.638802,
+      27.212601
+    ]
+  },
+  {
+    "id": 621838,
+    "name": "Slawharad",
+    "country": "BY",
+    "coord": [
+      53.444599,
+      31.00136
+    ]
+  },
+  {
+    "id": 628337,
+    "name": "Holatsk",
+    "country": "BY",
+    "coord": [
+      53.704498,
+      27.854099
+    ]
+  },
+  {
+    "id": 621722,
+    "name": "Smol\u2019nitsa",
+    "country": "BY",
+    "coord": [
+      53.952202,
+      27.9555
+    ]
+  },
+  {
+    "id": 624812,
+    "name": "Napalki",
+    "country": "BY",
+    "coord": [
+      54.100861,
+      28.1222
+    ]
+  },
+  {
+    "id": 625881,
+    "name": "Lubnishche",
+    "country": "BY",
+    "coord": [
+      53.96764,
+      30.104179
+    ]
+  },
+  {
+    "id": 8019721,
+    "name": "Chirvonyy Luzhok",
+    "country": "BY",
+    "coord": [
+      53.870399,
+      27.9963
+    ]
+  },
+  {
+    "id": 624265,
+    "name": "Obukhovo",
+    "country": "BY",
+    "coord": [
+      53.605099,
+      24.0814
+    ]
+  },
+  {
+    "id": 621887,
+    "name": "Skinderovka",
+    "country": "BY",
+    "coord": [
+      55.099998,
+      30.35
+    ]
+  },
+  {
+    "id": 8178416,
+    "name": "Rzhavets",
+    "country": "BY",
+    "coord": [
+      52.537201,
+      31.0142
+    ]
+  },
+  {
+    "id": 8021881,
+    "name": "Shebrin",
+    "country": "BY",
+    "coord": [
+      52.101501,
+      23.9007
+    ]
+  },
+  {
+    "id": 622428,
+    "name": "Salihorsk",
+    "country": "BY",
+    "coord": [
+      52.787601,
+      27.5415
+    ]
+  },
+  {
+    "id": 622794,
+    "name": "Rechytsa",
+    "country": "BY",
+    "coord": [
+      52.361698,
+      30.3916
+    ]
+  },
+  {
+    "id": 624400,
+    "name": "Novoye Medvezhino",
+    "country": "BY",
+    "coord": [
+      53.883331,
+      27.450001
+    ]
+  },
+  {
+    "id": 625818,
+    "name": "Luninyets",
+    "country": "BY",
+    "coord": [
+      52.2472,
+      26.804701
+    ]
+  },
+  {
+    "id": 627083,
+    "name": "Kalodzishchy",
+    "country": "BY",
+    "coord": [
+      53.944,
+      27.782301
+    ]
+  },
+  {
+    "id": 627145,
+    "name": "Kobryn",
+    "country": "BY",
+    "coord": [
+      52.213799,
+      24.3564
+    ]
+  },
+  {
+    "id": 627904,
+    "name": "Hrodna",
+    "country": "BY",
+    "coord": [
+      53.6884,
+      23.8258
+    ]
+  },
+  {
+    "id": 618818,
+    "name": "Zhyrovichy",
+    "country": "BY",
+    "coord": [
+      53.0131,
+      25.344299
+    ]
+  },
+  {
+    "id": 618883,
+    "name": "Zhdanovichy",
+    "country": "BY",
+    "coord": [
+      53.943199,
+      27.424999
+    ]
+  },
+  {
+    "id": 618927,
+    "name": "Zyembin",
+    "country": "BY",
+    "coord": [
+      54.358299,
+      28.218109
+    ]
+  },
+  {
+    "id": 619066,
+    "name": "Zaslawye",
+    "country": "BY",
+    "coord": [
+      54.01429,
+      27.269529
+    ]
+  },
+  {
+    "id": 619217,
+    "name": "Zamostochcha",
+    "country": "BY",
+    "coord": [
+      53.819801,
+      27.8685
+    ]
+  },
+  {
+    "id": 619616,
+    "name": "Yalizava",
+    "country": "BY",
+    "coord": [
+      53.398109,
+      29.00543
+    ]
+  },
+  {
+    "id": 619818,
+    "name": "Vysokaye",
+    "country": "BY",
+    "coord": [
+      52.370911,
+      23.370831
+    ]
+  },
+  {
+    "id": 620141,
+    "name": "Vishow",
+    "country": "BY",
+    "coord": [
+      53.982609,
+      29.97098
+    ]
+  },
+  {
+    "id": 620146,
+    "name": "Vishnyeva",
+    "country": "BY",
+    "coord": [
+      54.712212,
+      26.52253
+    ]
+  },
+  {
+    "id": 625072,
+    "name": "Mahilyowski Rayon",
+    "country": "BY",
+    "coord": [
+      53.833328,
+      30.25
+    ]
+  },
+  {
+    "id": 620205,
+    "name": "Veyno",
+    "country": "BY",
+    "coord": [
+      53.833328,
+      30.383329
+    ]
+  },
+  {
+    "id": 620255,
+    "name": "Vyerkhnyadzvinsk",
+    "country": "BY",
+    "coord": [
+      55.781502,
+      27.944281
+    ]
+  },
+  {
+    "id": 620425,
+    "name": "Vasilyevichy",
+    "country": "BY",
+    "coord": [
+      52.251202,
+      29.8288
+    ]
+  },
+  {
+    "id": 620558,
+    "name": "Urechcha",
+    "country": "BY",
+    "coord": [
+      52.947899,
+      27.893
+    ]
+  },
+  {
+    "id": 620676,
+    "name": "Turaw",
+    "country": "BY",
+    "coord": [
+      52.068298,
+      27.735001
+    ]
+  },
+  {
+    "id": 620869,
+    "name": "Tsimkavichy",
+    "country": "BY",
+    "coord": [
+      53.0672,
+      26.9902
+    ]
+  },
+  {
+    "id": 620945,
+    "name": "Tsyelyakhany",
+    "country": "BY",
+    "coord": [
+      52.517502,
+      25.842899
+    ]
+  },
+  {
+    "id": 621058,
+    "name": "Svir",
+    "country": "BY",
+    "coord": [
+      54.850319,
+      26.39838
+    ]
+  },
+  {
+    "id": 621543,
+    "name": "Stankava",
+    "country": "BY",
+    "coord": [
+      53.6292,
+      27.229
+    ]
+  },
+  {
+    "id": 621605,
+    "name": "Sasnovy Bor",
+    "country": "BY",
+    "coord": [
+      52.519402,
+      29.598801
+    ]
+  },
+  {
+    "id": 621641,
+    "name": "Soly",
+    "country": "BY",
+    "coord": [
+      54.513008,
+      26.19381
+    ]
+  },
+  {
+    "id": 621700,
+    "name": "Snow",
+    "country": "BY",
+    "coord": [
+      53.2201,
+      26.400999
+    ]
+  },
+  {
+    "id": 621732,
+    "name": "Smilavichy",
+    "country": "BY",
+    "coord": [
+      53.749599,
+      28.011499
+    ]
+  },
+  {
+    "id": 622179,
+    "name": "Sharkawshchyna",
+    "country": "BY",
+    "coord": [
+      55.37133,
+      27.47064
+    ]
+  },
+  {
+    "id": 622279,
+    "name": "Syomkava",
+    "country": "BY",
+    "coord": [
+      54.010269,
+      27.44138
+    ]
+  },
+  {
+    "id": 622420,
+    "name": "Samakhvalavichy",
+    "country": "BY",
+    "coord": [
+      53.739601,
+      27.5037
+    ]
+  },
+  {
+    "id": 622614,
+    "name": "Rudzyensk",
+    "country": "BY",
+    "coord": [
+      53.598301,
+      27.862101
+    ]
+  },
+  {
+    "id": 622690,
+    "name": "Rasony",
+    "country": "BY",
+    "coord": [
+      55.908852,
+      28.81263
+    ]
+  },
+  {
+    "id": 622700,
+    "name": "Ros",
+    "country": "BY",
+    "coord": [
+      53.285801,
+      24.4128
+    ]
+  },
+  {
+    "id": 622849,
+    "name": "Rakaw",
+    "country": "BY",
+    "coord": [
+      53.9674,
+      27.0562
+    ]
+  },
+  {
+    "id": 622877,
+    "name": "Radashkovichy",
+    "country": "BY",
+    "coord": [
+      54.15514,
+      27.24242
+    ]
+  },
+  {
+    "id": 622971,
+    "name": "Pukhavichy",
+    "country": "BY",
+    "coord": [
+      53.529701,
+      28.2467
+    ]
+  },
+  {
+    "id": 623129,
+    "name": "Prawdzinski",
+    "country": "BY",
+    "coord": [
+      53.524799,
+      27.830299
+    ]
+  },
+  {
+    "id": 623577,
+    "name": "Pyatryshki",
+    "country": "BY",
+    "coord": [
+      54.068241,
+      27.218651
+    ]
+  },
+  {
+    "id": 623581,
+    "name": "Pyetrykaw",
+    "country": "BY",
+    "coord": [
+      52.128899,
+      28.4921
+    ]
+  },
+  {
+    "id": 623788,
+    "name": "Parychy",
+    "country": "BY",
+    "coord": [
+      52.804199,
+      29.417601
+    ]
+  },
+  {
+    "id": 623855,
+    "name": "Azyartso",
+    "country": "BY",
+    "coord": [
+      53.839699,
+      27.391701
+    ]
+  },
+  {
+    "id": 623902,
+    "name": "Osveya",
+    "country": "BY",
+    "coord": [
+      56.014702,
+      28.110491
+    ]
+  },
+  {
+    "id": 623956,
+    "name": "Astrashytski Haradok",
+    "country": "BY",
+    "coord": [
+      54.063271,
+      27.696569
+    ]
+  },
+  {
+    "id": 624199,
+    "name": "Aktsyabrski",
+    "country": "BY",
+    "coord": [
+      52.644001,
+      28.8801
+    ]
+  },
+  {
+    "id": 624297,
+    "name": "Novy Svyerzhan",
+    "country": "BY",
+    "coord": [
+      53.454201,
+      26.730101
+    ]
+  },
+  {
+    "id": 624318,
+    "name": "Kadino",
+    "country": "BY",
+    "coord": [
+      53.883888,
+      30.520281
+    ]
+  },
+  {
+    "id": 624418,
+    "name": "Novoselye",
+    "country": "BY",
+    "coord": [
+      53.916199,
+      27.200899
+    ]
+  },
+  {
+    "id": 624494,
+    "name": "Novolukoml",
+    "country": "BY",
+    "coord": [
+      54.661919,
+      29.15016
+    ]
+  },
+  {
+    "id": 624612,
+    "name": "Nasilava",
+    "country": "BY",
+    "coord": [
+      54.310261,
+      26.800671
+    ]
+  },
+  {
+    "id": 624799,
+    "name": "Narowlya",
+    "country": "BY",
+    "coord": [
+      51.796101,
+      29.500401
+    ]
+  },
+  {
+    "id": 624804,
+    "name": "Narach",
+    "country": "BY",
+    "coord": [
+      54.908321,
+      26.70697
+    ]
+  },
+  {
+    "id": 624805,
+    "name": "Narach",
+    "country": "BY",
+    "coord": [
+      54.562248,
+      26.73247
+    ]
+  },
+  {
+    "id": 624842,
+    "name": "Myshkavichy",
+    "country": "BY",
+    "coord": [
+      53.217201,
+      29.511999
+    ]
+  },
+  {
+    "id": 624861,
+    "name": "Myadzyel",
+    "country": "BY",
+    "coord": [
+      54.873051,
+      26.93594
+    ]
+  },
+  {
+    "id": 624889,
+    "name": "Mstsislaw",
+    "country": "BY",
+    "coord": [
+      54.01923,
+      31.725651
+    ]
+  },
+  {
+    "id": 624965,
+    "name": "Mosar",
+    "country": "BY",
+    "coord": [
+      55.222439,
+      27.454929
+    ]
+  },
+  {
+    "id": 625671,
+    "name": "Machulishchy",
+    "country": "BY",
+    "coord": [
+      53.778801,
+      27.594801
+    ]
+  },
+  {
+    "id": 625712,
+    "name": "Lyubcha",
+    "country": "BY",
+    "coord": [
+      53.752201,
+      26.060301
+    ]
+  },
+  {
+    "id": 625737,
+    "name": "Lyntupy",
+    "country": "BY",
+    "coord": [
+      55.049431,
+      26.31073
+    ]
+  },
+  {
+    "id": 625772,
+    "name": "Lyakhavichy",
+    "country": "BY",
+    "coord": [
+      53.038799,
+      26.2656
+    ]
+  },
+  {
+    "id": 625853,
+    "name": "Luhavaya Slabada",
+    "country": "BY",
+    "coord": [
+      53.782299,
+      27.843399
+    ]
+  },
+  {
+    "id": 625907,
+    "name": "Loyew",
+    "country": "BY",
+    "coord": [
+      51.945801,
+      30.7953
+    ]
+  },
+  {
+    "id": 625931,
+    "name": "Loshnitsa",
+    "country": "BY",
+    "coord": [
+      54.278938,
+      28.76388
+    ]
+  },
+  {
+    "id": 626188,
+    "name": "Lyelchytsy",
+    "country": "BY",
+    "coord": [
+      51.786201,
+      28.3288
+    ]
+  },
+  {
+    "id": 626266,
+    "name": "Lahishyn",
+    "country": "BY",
+    "coord": [
+      52.339001,
+      25.9867
+    ]
+  },
+  {
+    "id": 626491,
+    "name": "Kruhlaye",
+    "country": "BY",
+    "coord": [
+      54.246571,
+      29.7957
+    ]
+  },
+  {
+    "id": 626523,
+    "name": "Kryvichy",
+    "country": "BY",
+    "coord": [
+      54.713188,
+      27.290421
+    ]
+  },
+  {
+    "id": 626548,
+    "name": "Kreva",
+    "country": "BY",
+    "coord": [
+      54.311138,
+      26.289989
+    ]
+  },
+  {
+    "id": 625140,
+    "name": "Minski Rayon",
+    "country": "BY",
+    "coord": [
+      53.833328,
+      27.58333
+    ]
+  },
+  {
+    "id": 626610,
+    "name": "Krasnaye",
+    "country": "BY",
+    "coord": [
+      54.242691,
+      27.07618
+    ]
+  },
+  {
+    "id": 626625,
+    "name": "Krasnapollye",
+    "country": "BY",
+    "coord": [
+      53.333672,
+      31.401409
+    ]
+  },
+  {
+    "id": 626660,
+    "name": "Chyrvonaya Slabada",
+    "country": "BY",
+    "coord": [
+      52.8522,
+      27.1698
+    ]
+  },
+  {
+    "id": 626806,
+    "name": "Kastsyukowka",
+    "country": "BY",
+    "coord": [
+      52.5387,
+      30.917299
+    ]
+  },
+  {
+    "id": 626808,
+    "name": "Kastsyukovichy",
+    "country": "BY",
+    "coord": [
+      53.351608,
+      32.050591
+    ]
+  },
+  {
+    "id": 626829,
+    "name": "Kosava",
+    "country": "BY",
+    "coord": [
+      52.758301,
+      25.155399
+    ]
+  },
+  {
+    "id": 626917,
+    "name": "Karma",
+    "country": "BY",
+    "coord": [
+      53.1301,
+      30.8016
+    ]
+  },
+  {
+    "id": 626992,
+    "name": "Konstantinovo",
+    "country": "BY",
+    "coord": [
+      54.662788,
+      29.26985
+    ]
+  },
+  {
+    "id": 627123,
+    "name": "Kokhanava",
+    "country": "BY",
+    "coord": [
+      54.461681,
+      30.000811
+    ]
+  },
+  {
+    "id": 627202,
+    "name": "Klimavichy",
+    "country": "BY",
+    "coord": [
+      53.613461,
+      31.93853
+    ]
+  },
+  {
+    "id": 627205,
+    "name": "Klichaw",
+    "country": "BY",
+    "coord": [
+      53.492821,
+      29.335239
+    ]
+  },
+  {
+    "id": 627362,
+    "name": "Khoyniki",
+    "country": "BY",
+    "coord": [
+      51.891102,
+      29.9552
+    ]
+  },
+  {
+    "id": 627424,
+    "name": "Khalopyenichy",
+    "country": "BY",
+    "coord": [
+      54.515999,
+      28.956791
+    ]
+  },
+  {
+    "id": 627793,
+    "name": "Iwye",
+    "country": "BY",
+    "coord": [
+      53.929901,
+      25.772699
+    ]
+  },
+  {
+    "id": 627811,
+    "name": "Ivanava",
+    "country": "BY",
+    "coord": [
+      52.1451,
+      25.536501
+    ]
+  },
+  {
+    "id": 627878,
+    "name": "Ilya",
+    "country": "BY",
+    "coord": [
+      54.416451,
+      27.29435
+    ]
+  },
+  {
+    "id": 628317,
+    "name": "Halshany",
+    "country": "BY",
+    "coord": [
+      54.2565,
+      26.01368
+    ]
+  },
+  {
+    "id": 628387,
+    "name": "Hlusk",
+    "country": "BY",
+    "coord": [
+      52.903,
+      28.6845
+    ]
+  },
+  {
+    "id": 628397,
+    "name": "Hlusha",
+    "country": "BY",
+    "coord": [
+      53.0868,
+      28.856701
+    ]
+  },
+  {
+    "id": 628658,
+    "name": "Dzyatlava",
+    "country": "BY",
+    "coord": [
+      53.4631,
+      25.406799
+    ]
+  },
+  {
+    "id": 628727,
+    "name": "Dukora",
+    "country": "BY",
+    "coord": [
+      53.6786,
+      27.940001
+    ]
+  },
+  {
+    "id": 628865,
+    "name": "Drybin",
+    "country": "BY",
+    "coord": [
+      54.119541,
+      31.091681
+    ]
+  },
+  {
+    "id": 628871,
+    "name": "Druya",
+    "country": "BY",
+    "coord": [
+      55.790611,
+      27.449841
+    ]
+  },
+  {
+    "id": 628923,
+    "name": "Dowsk",
+    "country": "BY",
+    "coord": [
+      53.157101,
+      30.4601
+    ]
+  },
+  {
+    "id": 629159,
+    "name": "Davyd-Haradok",
+    "country": "BY",
+    "coord": [
+      52.056599,
+      27.216101
+    ]
+  },
+  {
+    "id": 629163,
+    "name": "Dashkawka",
+    "country": "BY",
+    "coord": [
+      53.736969,
+      30.261021
+    ]
+  },
+  {
+    "id": 629273,
+    "name": "Chervyen",
+    "country": "BY",
+    "coord": [
+      53.705898,
+      28.431299
+    ]
+  },
+  {
+    "id": 629390,
+    "name": "Chachersk",
+    "country": "BY",
+    "coord": [
+      52.916401,
+      30.9179
+    ]
+  },
+  {
+    "id": 629564,
+    "name": "Buda-Kashalyova",
+    "country": "BY",
+    "coord": [
+      52.717899,
+      30.570101
+    ]
+  },
+  {
+    "id": 629640,
+    "name": "Braslaw",
+    "country": "BY",
+    "coord": [
+      55.644001,
+      27.04545
+    ]
+  },
+  {
+    "id": 629646,
+    "name": "Brahin",
+    "country": "BY",
+    "coord": [
+      51.786999,
+      30.2677
+    ]
+  },
+  {
+    "id": 629663,
+    "name": "Turets-Bayary",
+    "country": "BY",
+    "coord": [
+      54.366669,
+      26.66667
+    ]
+  },
+  {
+    "id": 629697,
+    "name": "Baruny",
+    "country": "BY",
+    "coord": [
+      54.316509,
+      26.13702
+    ]
+  },
+  {
+    "id": 629829,
+    "name": "Vyaliki Trastsyanets",
+    "country": "BY",
+    "coord": [
+      53.851002,
+      27.7139
+    ]
+  },
+  {
+    "id": 629986,
+    "name": "Vyalikaya Byerastavitsa",
+    "country": "BY",
+    "coord": [
+      53.195999,
+      24.0166
+    ]
+  },
+  {
+    "id": 630089,
+    "name": "Blon",
+    "country": "BY",
+    "coord": [
+      53.526901,
+      28.173201
+    ]
+  },
+  {
+    "id": 630166,
+    "name": "Berezovka",
+    "country": "BY",
+    "coord": [
+      53.721432,
+      25.499269
+    ]
+  },
+  {
+    "id": 630197,
+    "name": "Byerazino",
+    "country": "BY",
+    "coord": [
+      53.8391,
+      28.9879
+    ]
+  },
+  {
+    "id": 630343,
+    "name": "Byahoml",
+    "country": "BY",
+    "coord": [
+      54.733551,
+      28.059959
+    ]
+  },
+  {
+    "id": 630515,
+    "name": "Ashmyany",
+    "country": "BY",
+    "coord": [
+      54.424961,
+      25.937799
+    ]
+  },
+  {
+    "id": 793279,
+    "name": "Balbasava",
+    "country": "BY",
+    "coord": [
+      54.436199,
+      30.272591
+    ]
+  },
+  {
+    "id": 815847,
+    "name": "Ramanavichy",
+    "country": "BY",
+    "coord": [
+      53.872292,
+      30.560989
+    ]
+  },
+  {
+    "id": 6846555,
+    "name": "Fanipol",
+    "country": "BY",
+    "coord": [
+      53.762718,
+      27.296221
+    ]
+  },
+  {
+    "id": 8019679,
+    "name": "Khatsyezhyna",
+    "country": "BY",
+    "coord": [
+      53.909401,
+      27.3069
+    ]
+  },
+  {
+    "id": 8019799,
+    "name": "Shchomyslitsa",
+    "country": "BY",
+    "coord": [
+      53.821098,
+      27.4522
+    ]
+  },
+  {
+    "id": 8019803,
+    "name": "Yubilyeyny",
+    "country": "BY",
+    "coord": [
+      53.819099,
+      27.5215
+    ]
+  },
+  {
+    "id": 8019846,
+    "name": "Atolina",
+    "country": "BY",
+    "coord": [
+      53.7817,
+      27.434601
+    ]
+  },
+  {
+    "id": 8019860,
+    "name": "Pryvolny",
+    "country": "BY",
+    "coord": [
+      53.796902,
+      27.7967
+    ]
+  },
+  {
+    "id": 8019924,
+    "name": "Enyerhyetykaw",
+    "country": "BY",
+    "coord": [
+      53.587101,
+      27.053499
+    ]
+  },
+  {
+    "id": 8020001,
+    "name": "Svislach",
+    "country": "BY",
+    "coord": [
+      53.6404,
+      27.919901
+    ]
+  },
+  {
+    "id": 8020004,
+    "name": "Druzhny",
+    "country": "BY",
+    "coord": [
+      53.623798,
+      27.897699
+    ]
+  },
+  {
+    "id": 621728,
+    "name": "Smalyavitski Rayon",
+    "country": "BY",
+    "coord": [
+      54,
+      28.16667
+    ]
+  },
+  {
+    "id": 620790,
+    "name": "Trishin",
+    "country": "BY",
+    "coord": [
+      52.099998,
+      23.75
+    ]
+  },
+  {
+    "id": 619762,
+    "name": "Yakubovka",
+    "country": "BY",
+    "coord": [
+      52.416698,
+      31.029301
+    ]
+  },
+  {
+    "id": 8247183,
+    "name": "Borovlyany",
+    "country": "BY",
+    "coord": [
+      54.002201,
+      27.6754
+    ]
+  },
+  {
+    "id": 8247406,
+    "name": "Lyeskawka",
+    "country": "BY",
+    "coord": [
+      54.002399,
+      27.7108
+    ]
+  },
+  {
+    "id": 8247407,
+    "name": "Lyasny",
+    "country": "BY",
+    "coord": [
+      54.007198,
+      27.696301
+    ]
+  },
+  {
+    "id": 8247409,
+    "name": "Balshavik",
+    "country": "BY",
+    "coord": [
+      54.003601,
+      27.5669
+    ]
+  },
+  {
+    "id": 8256205,
+    "name": "Usjazh",
+    "country": "BY",
+    "coord": [
+      54.075981,
+      28.006981
+    ]
+  },
+  {
+    "id": 8256270,
+    "name": "Oktjabrskij",
+    "country": "BY",
+    "coord": [
+      54.040588,
+      28.19813
+    ]
+  }
+]
