@@ -149,4 +149,3 @@ print(p1)
 print(Person.is_adult(p1))
 p2 = Person.create_from_string("Alexey-27-M")
 print(p2)
-
