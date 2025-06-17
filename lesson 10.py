@@ -1,4 +1,5 @@
 # Задание 1 =================================================
+import copy
 from functools import total_ordering
 
 
@@ -112,8 +113,8 @@ print(re1.is_square)
 
 # Задание 6 =================================================
 class Person:
-    def __init__(self, name, age, gender):
-        self.name = name
+    def __init__(self, _name, age, gender):
+        self._name = _name
         self.age = age
         self.gender = gender
 
@@ -124,14 +125,16 @@ class Person:
         return self.name
 
     @property
-    def set_name(self):
-        def setter(new_name):
-            self.name = new_name
-        return setter
+    def name(self):
+        return self._name
+
+    @name.setter
+    def name(self, value):
+        self._name = value
 
     @staticmethod
-    def is_adult(self):
-        return self.age >= 18
+    def is_adult(age):
+        return age >= 18
 
     @classmethod
     def create_from_string(cls, s: str):
@@ -144,8 +147,155 @@ class Person:
 p1 = Person("Алексей", 28, "М")
 print(p1)
 print(p1.get_name())
-p1.set_name("Alexey")
-print(p1)
-print(Person.is_adult(p1))
+p1.name = "Alexey"
+print(p1.name)
+print(Person.is_adult(p1.age))
 p2 = Person.create_from_string("Alexey-27-M")
 print(p2)
+
+# Задание Matrix =================================================
+class Matrix:
+    def __init__(self, matrix: list[list[int | float]]):
+        self.matrix = matrix
+
+    def __str__(self):
+        return f"{self.matrix}"
+
+    def __len__(self):
+        return len(self.matrix)
+
+    def __iter__(self):
+        return iter(self.matrix)
+
+    def __dict__(self):
+        return list(self.matrix)
+
+    def __add__(self, other):
+        if len(self.matrix) == len(other.matrix):
+                if len(self.matrix[0]) == len(other.matrix[0]):
+                    new_matrix = copy.deepcopy(self.matrix)
+                    for i in range(len(self.matrix)):
+                        for j in range(len(self.matrix[i])):
+                            new_matrix[i][j] = self.matrix[i][j] + other.matrix[i][j]
+                else:
+                    raise ValueError("Матрицы разных размерностей")
+        else:
+            raise ValueError("Матрицы разных размерностей")
+        return new_matrix
+
+    def __sub__(self, other):
+        if len(self.matrix) == len(other.matrix):
+                if len(self.matrix[0]) == len(other.matrix[0]):
+                    new_matrix = copy.deepcopy(self.matrix)
+                    for i in range(len(self.matrix)):
+                        for j in range(len(self.matrix[i])):
+                            new_matrix[i][j] = self.matrix[i][j] - other.matrix[i][j]
+                else:
+                    raise ValueError("Матрицы разных размерностей")
+        else:
+            raise ValueError("Матрицы разных размерностей")
+        return new_matrix
+
+    def __mul__(self, number):
+        new_matrix = copy.deepcopy(self.matrix)
+        for i in range(len(self.matrix)):
+            for j in range(len(self.matrix[i])):
+                new_matrix[i][j] = self.matrix[i][j] * number
+        return new_matrix
+
+    @classmethod
+    def transposition(cls, matrix: list[list[int | float]]):
+        new_matrix = []
+        for i in range(len(list(matrix)[0])):
+            list_new = []
+            for j in matrix:
+                list_new.append(j[i])
+            new_matrix.append(list_new)
+        return cls(new_matrix)
+
+    @classmethod
+    def ones_matrix(cls, m: int, n: int):
+        list_n = []
+        for i in range(n):
+            list_n.append(1)
+        list_m = []
+        for i in range(m):
+            list_m.append(list_n)
+        return cls(list_m)
+
+    @classmethod
+    def zero_matrix(cls, m: int, n: int):
+        list_n = []
+        for i in range(n):
+            list_n.append(0)
+        list_m = []
+        for i in range(m):
+            list_m.append(list_n)
+        return cls(list_m)
+
+    @classmethod
+    def diagonal_matrix(cls, numbers: list[int | float]):
+        new_matrix = []
+        for i in range(len(numbers)):
+            list_new = []
+            [list_new.append(0) for i in range(len(numbers)-1)]
+            list_new.insert(i,numbers[i])
+            new_matrix.append(list_new)
+        return cls(new_matrix)
+
+    def size(self):
+        """Размерность матрицы"""
+        return (len(self.matrix), len(self.matrix[0]))
+
+    def quantity(self):
+        """Количество элементов"""
+        return len(self.matrix) * len(self.matrix[0])
+
+    def summ_all(self):
+        """Сумма всех элементов"""
+        sum = 0
+        for i in self.matrix:
+            for j in i:
+                sum += j
+        return sum
+
+    def no_negative (self):
+        """Заменяет отрицательные значения нулями"""
+        new_matrix = copy.deepcopy(self.matrix)
+        for i in range(len(new_matrix)):
+            for j in range(len(new_matrix[i])):
+                if new_matrix[i][j] < 0:
+                    new_matrix[i][j] = 0
+        return new_matrix
+
+    def __eq__(self, other):
+        return self.matrix == other.matrix
+
+
+
+m_1 = Matrix([[1, 2], [4, 5], [7, 8]])
+m_2 = Matrix([[2, 3], [5, 6], [8, 9]])
+m_3 = Matrix([[1, 2, -3], [4, 5, 6], [-7, 8, 9]])
+print(f"Сумма: {m_1+m_2}")
+# print(m_3+m_2)
+m_sub = m_1-m_2
+print(f"Разность: {m_sub}")
+# print(m_3-m_2)
+m_mul = m_3*20
+print(f"Умножение: {m_mul}")
+m_of_ones = Matrix.ones_matrix(2, 3)
+print(f"Единичная: {m_of_ones}")
+m_of_zeros = Matrix.zero_matrix(6, 2)
+print(f"Нулевая: {m_of_zeros}")
+m_1_tr = Matrix.transposition(m_1)
+print(m_1_tr)
+m_3_tr = Matrix.transposition(m_3)
+print(m_3_tr)
+m_diag = Matrix.diagonal_matrix([1,3,4,6])
+print(m_diag)
+print(m_2.size())
+print(m_2.quantity())
+print(m_2.summ_all())
+print(m_3.no_negative())
+m_1_1 = Matrix([[1, 2], [4, 5], [7, 8]])
+print(m_1 == m_1_1)
