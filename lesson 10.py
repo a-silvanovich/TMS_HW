@@ -262,7 +262,16 @@ class Matrix:
         return Matrix(new_matrix)
 
     def __eq__(self, other) -> bool:
-        return self.matrix == other.matrix
+        comparator = True
+        if len(self.matrix) == len(other.matrix) and len(self.matrix[0]) == len(other.matrix[0]):
+            for i in range(len(self.matrix)):
+                for j in range(len(self.matrix[i])):
+                    if self.matrix[i][j] == other.matrix[i][j]:
+                        pass
+                    else: comparator = False
+        else:
+            comparator = False
+        return comparator
 
 
 
@@ -292,3 +301,4 @@ print(m_2.summ_all())
 print(m_3.no_negative())
 m_1_1 = Matrix([[1, 2], [4, 5], [7, 8]])
 print(m_1 == m_1_1)
+print(m_1 == m_2)
