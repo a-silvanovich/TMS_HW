@@ -262,16 +262,16 @@ class Matrix:
         return Matrix(new_matrix)
 
     def __eq__(self, other) -> bool:
-        comparator = True
         if len(self.matrix) == len(other.matrix) and len(self.matrix[0]) == len(other.matrix[0]):
             for i in range(len(self.matrix)):
                 for j in range(len(self.matrix[i])):
                     if self.matrix[i][j] == other.matrix[i][j]:
                         pass
-                    else: comparator = False
+                    else:
+                        return False
         else:
-            comparator = False
-        return comparator
+            return False
+        return True
 
 
 
