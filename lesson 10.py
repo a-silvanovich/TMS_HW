@@ -262,15 +262,12 @@ class Matrix:
         return Matrix(new_matrix)
 
     def __eq__(self, other) -> bool:
-        if len(self.matrix) == len(other.matrix) and len(self.matrix[0]) == len(other.matrix[0]):
-            for i in range(len(self.matrix)):
-                for j in range(len(self.matrix[i])):
-                    if self.matrix[i][j] == other.matrix[i][j]:
-                        pass
-                    else:
-                        return False
-        else:
+        if len(self.matrix) != len(other.matrix) or len(self.matrix[0]) != len(other.matrix[0]):
             return False
+        for i in range(len(self.matrix)):
+            for j in range(len(self.matrix[i])):
+                if self.matrix[i][j] != other.matrix[i][j]:
+                    return False
         return True
 
 
