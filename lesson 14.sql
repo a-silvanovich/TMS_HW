@@ -15,7 +15,7 @@ CREATE TABLE products (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     cost INTEGER NOT NULL,
-    count INTEGER,
+    count INTEGER NOT NULL,
     seller_id INTEGER NOT NULL,
     FOREIGN KEY (seller_id)
         REFERENCES seller (id)
